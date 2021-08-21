@@ -1,5 +1,5 @@
 # sd5_Stone_402
-Spring 2021 Senior Year Project at ISU
+Spring 2021 Senior Year Project at ISU<br>
 Collaborators: Noah Heasley, Alejandro Delbrey, Andrew Fahmi, Johnathan Vetting, Evelyn Khew
 
 <b>Project Description</b><br>
