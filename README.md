@@ -1,8 +1,7 @@
 # sd5_Stone_402
 Senior Year Project at ISU
 
-<b>Project Description</b>
-
+<b>Project Description</b><br>
 Virtual BioChem Lab is a 3D web-based game proposed by Dr. Stone Chen. This game will include multiple labs for the students to complete and will be made with a realistic feel. The goal of this game is to allow students from across the country to be able to complete and learn their labs in a safe environment. They will be able to mess up as much as they want without penalty, as it is part of the learning process. This project will be free and open-source so that other developers can continue working on it once we have completed our part. Our team will only be focusing on the first lab, thus building upon the infrastructure and the foundations of this game. The lab experiment which we will be recreating is titled "Determine Protein Concentration by the Bradford Assay". 
 
 <b>Project Background</b><br>
