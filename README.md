@@ -9,3 +9,5 @@ This project started due to major frustrations with students being unable to car
 
 <b>Tools Used</b><br>
 To assist with making this project come to life, we have decided to use a popular game engine, Unity. Using it, we can accomplish the 3D game-like feeling that Dr. Chen desires. Unity boasts the ability to create 3D environments for a player, as well as being able to port the completed game online. The code of the game is written in C#, and 3D models can be imported using 3D modelling tools such as Blender or Maya. By using Unity Teams, we can also collaborate with up to five other students under the Unity Student license. 
+
+For more information: https://seniord.cs.iastate.edu/2021-May-SD5/
