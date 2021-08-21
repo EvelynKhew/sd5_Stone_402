@@ -1,0 +1,270 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.4f1 (becced5a802b) revision 12504301'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 16270 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\2020.2.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/CS402/402 Project/sd5_Stone_402/sd5_Stone
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57151
+Successfully changed project path to: D:/CS402/402 Project/sd5_Stone_402/sd5_Stone
+D:/CS402/402 Project/sd5_Stone_402/sd5_Stone
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.4f1 (becced5a802b)
+[Subsystems] Discovering subsystems at path D:/Program Files/2020.2.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/CS402/402 Project/sd5_Stone_402/sd5_Stone/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'D:/Program Files/2020.2.4f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/2020.2.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/2020.2.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56276
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005492 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 25.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.888 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001180 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.986 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.8 MB.
+System memory in use after: 56.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 2.184100 ms (FindLiveObjects: 0.249300 ms CreateObjectMapping: 0.052600 ms MarkObjects: 1.757600 ms  DeleteObjects: 0.122700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MenuManager.prefab
+  artifactKey: Guid(a25e549dad59b7d42ae9a8744bd413ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MenuManager.prefab using Guid(a25e549dad59b7d42ae9a8744bd413ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '319b0e3196cf8f8a93a1900c3cd2ba71') in 0.064505 seconds
+  Import took 0.066698 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001719 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.072 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 1.777500 ms (FindLiveObjects: 0.129400 ms CreateObjectMapping: 0.033800 ms MarkObjects: 1.592200 ms  DeleteObjects: 0.020700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001063 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.027 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1563.
+Total: 1.973700 ms (FindLiveObjects: 0.330900 ms CreateObjectMapping: 0.039400 ms MarkObjects: 1.540400 ms  DeleteObjects: 0.060700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1643.565833 seconds.
+  path: Assets/crosshair.png
+  artifactKey: Guid(5958e37489cc29a48b9de63a46c8ce9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/crosshair.png using Guid(5958e37489cc29a48b9de63a46c8ce9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc2f8ded60a8d27e7029d78305044af2') in 0.249609 seconds
+  Import took 0.252478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/glovebox.blend
+  artifactKey: Guid(a956f735782e74143a611beb6b966c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/glovebox.blend using Guid(a956f735782e74143a611beb6b966c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4709205c140859a3de70c9a2e8f28f6a') in 0.337448 seconds
+  Import took 0.340499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/MenuManager.prefab
+  artifactKey: Guid(a25e549dad59b7d42ae9a8744bd413ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MenuManager.prefab using Guid(a25e549dad59b7d42ae9a8744bd413ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4310f86195e3965e3a9a26e089c9228') in 0.012496 seconds
+  Import took 0.014680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/labTable.png
+  artifactKey: Guid(6e53205157ef58f46ae61e09d7fad1b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/labTable.png using Guid(6e53205157ef58f46ae61e09d7fad1b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cce597c43dde14e809ef2d4ab697154') in 0.018712 seconds
+  Import took 0.021184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/parafilm.blend
+  artifactKey: Guid(875b6ce2032b618459c431b0e86048e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/parafilm.blend using Guid(875b6ce2032b618459c431b0e86048e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a67ea587677e993e9cac9df5a3a754e') in 0.065635 seconds
+  Import took 0.068433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/spectrometre_mesh.png
+  artifactKey: Guid(4f611a5e6a96f72418669b87c681b431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spectrometre_mesh.png using Guid(4f611a5e6a96f72418669b87c681b431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb6882f28cf4ef0812b1e332fa9320a') in 0.025232 seconds
+  Import took 0.027881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Frontend_virtualbiochemlab_src_Assets_SVGTSXE_SpectroMeter.jpg
+  artifactKey: Guid(4d58b00f8936b8a43a61caffdd9d2b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frontend_virtualbiochemlab_src_Assets_SVGTSXE_SpectroMeter.jpg using Guid(4d58b00f8936b8a43a61caffdd9d2b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ac20f154c6501b01db98805682f683') in 0.015426 seconds
+  Import took 0.018225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/labtable.blend
+  artifactKey: Guid(88ff049222da1e540b06b313a5f3de25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/labtable.blend using Guid(88ff049222da1e540b06b313a5f3de25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5b0d253ae3d137b42119fb9d429e77') in 0.035339 seconds
+  Import took 0.038016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(f1f3300712a6fb74990c93d22a400104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(f1f3300712a6fb74990c93d22a400104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31139f2e9aa7aa2bc9578ddef6b22c85') in 0.028753 seconds
+  Import took 0.031053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/SpectrometerDial.png
+  artifactKey: Guid(9f682c6640100f64daab15218fa25d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpectrometerDial.png using Guid(9f682c6640100f64daab15218fa25d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06565c071f57c3879d315a9a654b34df') in 0.015591 seconds
+  Import took 0.018338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/spectrometerDisplay 1.png
+  artifactKey: Guid(e2a74306410c46b4aa42babeb3a26710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spectrometerDisplay 1.png using Guid(e2a74306410c46b4aa42babeb3a26710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5db1ab91508362ee585b6a9b7bbe7ab') in 0.018479 seconds
+  Import took 0.020854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/spectrometre.blend
+  artifactKey: Guid(427e68c91f1d2e24dbd589f9eb997fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spectrometre.blend using Guid(427e68c91f1d2e24dbd589f9eb997fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036b1cae2c7f3d5fdbcfa2230b54a8ad') in 0.037580 seconds
+  Import took 0.039911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/petriDish.blend
+  artifactKey: Guid(866c2aaf92f030c4cb69fe9c45333986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/petriDish.blend using Guid(866c2aaf92f030c4cb69fe9c45333986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c832b96d14c015b61ee3f97e4443fd62') in 0.045884 seconds
+  Import took 0.048628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/spectrometerDisplay.jpg
+  artifactKey: Guid(4bca4e9d75aa031409288cff13892efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spectrometerDisplay.jpg using Guid(4bca4e9d75aa031409288cff13892efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d5cef3b559ada25db3f3414e9eda627') in 0.022635 seconds
+  Import took 0.024796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/petriDish(1).blend
+  artifactKey: Guid(6438e6f664c4f8d4a83073b146f07d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/petriDish(1).blend using Guid(6438e6f664c4f8d4a83073b146f07d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35afb2f3b3e22636b6576ca716ede919') in 0.041281 seconds
+  Import took 0.043436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/spectrometre_mesh 1.png
+  artifactKey: Guid(7606066ada3a6e949956dabe0bdcb8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spectrometre_mesh 1.png using Guid(7606066ada3a6e949956dabe0bdcb8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953d7141c0d3d26f720800d27689ee76') in 0.021255 seconds
+  Import took 0.023710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005253 seconds.
+  path: Assets/spectrometre_mesh 1.png
+  artifactKey: Guid(7606066ada3a6e949956dabe0bdcb8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spectrometre_mesh 1.png using Guid(7606066ada3a6e949956dabe0bdcb8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953d7141c0d3d26f720800d27689ee76') in 0.013517 seconds
+  Import took 0.016038 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

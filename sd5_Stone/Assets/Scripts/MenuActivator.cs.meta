@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a693f8b4c07cfb149b187460faddfed1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuBackground: {instanceID: 0}
+  - tasks: {instanceID: 0}
+  - notebook: {instanceID: 0}
+  - notebookPanel: {fileID: 8415536126971889188, guid: a25e549dad59b7d42ae9a8744bd413ea, type: 3}
+  - inputField: {instanceID: 0}
+  - camera: {instanceID: 0}
+  - player: {instanceID: 0}
+  - labObjs: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
